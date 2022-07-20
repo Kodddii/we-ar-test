@@ -1,0 +1,12 @@
+{
+    "include": [
+        "src"
+    ],
+    "compilerOptions": {
+        "outDir": "build",
+        "target":"ESNEXT",
+        "lib":["ESNEXT"],
+        "strict": true      
+        
+    }
+}
